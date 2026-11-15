@@ -1,3 +1,5 @@
+<p align="right"><b>🇧🇷 Português</b> · <a href="https://github.com/enzocostaj/enzocostaj/blob/main/README.en.md">🇺🇸 English</a></p>
+
 <h1 align="center">Enzo Jacundá</h1>
 <p align="center">
   <b>Engenheiro de Software Full Stack</b> · Estudante de Engenharia de Software na UnB (conclusão prevista em dez/2028)<br>
