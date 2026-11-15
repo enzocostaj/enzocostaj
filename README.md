@@ -66,7 +66,3 @@ Também sou cofundador da **DOMO** e já dei aulas de **programação competitiv
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 
 POO · SOLID · Clean Architecture · testes automatizados · levantamento de requisitos
-
-## Programação competitiva
-
-Fui instrutor no **Pinkballoon Project**: dei aulas e montei contests semanais no Codeforces e no juiz MOJ para cerca de 60 alunos, cobrindo C++, STL, complexidade de algoritmos, busca binária, somas de prefixo e strings.
