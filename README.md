@@ -15,7 +15,7 @@
 
 Desenvolvo software que roda em produção para clientes reais. Hoje sou responsável por três produtos da **AquaTrade**, empresa do setor de pescados, do levantamento de requisitos com o cliente até a implantação e o suporte.
 
-Também sou cofundador da **DOMO** e dou aulas de **programação competitiva**.
+Também sou cofundador da **DOMO** e já dei aulas de **programação competitiva** para cerca de 60 alunos.
 
 ## O que estou construindo
 
